@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamburg-space-team/.github/refs/heads/main/images/banner.png" alt="Hamburg Space Team" width="100%"/>
+</p>
+
 We build software and hardware for real space missions. Sounding rockets, weather balloons, and CubeSats. The code you find in this organization is on its way to something that actually flies.
 
 If you're a student curious about getting involved, you're in the right place. If you're from industry or thinking about supporting us, welcome too. Have a look around.
