@@ -51,7 +51,7 @@ Our naming convention makes it easy to find what you're looking for:
 |---|---|
 | `mission-*` | Code and docs for a specific mission |
 | `cubesat-*` | Subsystems of the CubeSat program |
-| `framework-*` | Reusable libraries that work across missions |
+| `space-*` | Reusable libraries that work across missions |
 | `tool-*` | Development tools and helpers |
 | `meta-*` | Standards, onboarding, templates |
 
