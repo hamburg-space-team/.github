@@ -25,7 +25,6 @@ A few things that matter to us:
 - **Industry-oriented standards.** We follow established practices from professional aerospace and embedded software development.
 - **Documentation that outlives us.** Students come and go. What we write today, the next generation will read in three or five years.
 - **Verification we can prove.** If we say something works, we can show you the test that proves it.
-- **Open by default.** Everything we build is here, in public, for anyone to learn from or build on.
 
 The specifics live in [`meta-standards`](https://github.com/hamburg-space-team/meta-standards).
 
