@@ -48,17 +48,6 @@ Our work splits across two dimensions:
 
 Find your focus, or move between areas. Both work for us
 
-## Finding your way around our repositories
-Our naming convention makes it easy to find what you're looking for:
-
-| Prefix | What it is |
-|---|---|
-| `mission-*` | Code and docs for a specific mission |
-| `cubesat-*` | Subsystems of the CubeSat program |
-| `space-*` | Reusable libraries that work across missions |
-| `tool-*` | Development tools and helpers |
-| `meta-*` | Standards, onboarding, templates |
-
 ## For sponsors and partners
 We're always happy to connect with companies and institutions in aerospace, embedded software, or anything adjacent. Our work touches communication, real-time embedded systems, CubeSat development, and educating the next generation of engineers.
  
