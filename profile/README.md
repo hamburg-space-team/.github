@@ -27,10 +27,9 @@ A few things that matter to us:
 ## Getting started
 Curious and want to contribute? Here's the path:
  
-1. Read [`meta-onboarding`](https://github.com/hamburg-space-team/meta-onboarding). That's our welcome guide.
-2. Come to one of our meetings. We meet weekly at TU Hamburg.
-3. Get matched with a project and pick a "good first issue".
-4. Open your first pull request, get it reviewed, and you're in.
+1. Come to one of our meetings. We meet weekly at TU Hamburg.
+2. Get matched with a project and pick a "good first issue".
+3. Open your first pull request, get it reviewed, and you're in.
 
 No prior experience needed. We onboard people with all kinds of backgrounds. What matters is being curious and willing to learn.
 
