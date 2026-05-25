@@ -15,8 +15,6 @@ We run three project streams in parallel. Each has its own missions, but they sh
 
 🛰️ **Satellites.** A long-term CubeSat program, currently in early planning.
 
-Alongside these, we also build reusable libraries and tools that work across all our missions.
-
 ## What we care about
 We take our software seriously. Even though we're students, we work the way professional aerospace teams work, because that's the only way to build something that actually flies.
 
@@ -25,8 +23,6 @@ A few things that matter to us:
 - **Industry-oriented standards.** We follow established practices from professional aerospace and embedded software development.
 - **Documentation that outlives us.** Students come and go. What we write today, the next generation will read in three or five years.
 - **Verification we can prove.** If we say something works, we can show you the test that proves it.
-
-The specifics live in [`meta-standards`](https://github.com/hamburg-space-team/meta-standards).
 
 ## Getting started
 Curious and want to contribute? Here's the path:
